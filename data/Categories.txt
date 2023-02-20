@@ -1,0 +1,12 @@
+1|Fruit|Fresh Fruits
+2|Vegetables|Fresh Vegetables
+3|Dairy|Dairy Products
+4|Meat|Fresh Meat
+5|Seafood|Fresh Seafood
+6|Bakery|Fresh Bread and Pastries
+7|Sweets|Candy and Sweets
+8|Clothing|Clothing and Apparel
+9|Personal Care|Personal Care and Hygiene
+10|Electronics|Electronic Devices and Accessories
+11|Snacks|Snacks and Chips
+12|Beverages|Soft Drinks and Beverages

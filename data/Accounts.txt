@@ -1,0 +1,24 @@
+1|Cong Manh|20|0969976386|Ha Nam|admin|admin@123|ADMIN
+2|Ngo Huu|23|0967272838|Bac Ninh|ngohuu|wErf.34$|SELLER
+3|Le Tuan|25|0933224466|Hai Phong|letuan|qAzx#45$|NONE
+4|Nguyen Trung|32|0911345678|Hanoi|nguyentrung|aBcD@56|SELLER
+5|Vu Thi|28|0944556677|Hue|vuthi|wErf.67#|NONE
+6|Tran Duy|27|0977788999|Da Nang|tranduy|qAzx$78|ADMIN
+7|Pham Bao|30|0911213141|Sai Gon|phambao|aBcd#89|SELLER
+8|Doan Anh|22|0988899900|Thai Nguyen|doananh|wErf.90@|NONE
+9|Bui Thu|31|0944444555|Can Tho|buithu|qAzx%12|SELLER
+10|Nguyen Hoang|26|0922211000|Nha Trang|nguyenhoang|aBcD^34|ADMIN
+11|Truong Anh|24|0933333444|Vung Tau|truongan|wErf%56|NONE
+12|Hoang Quan|29|0988888777|Da Lat|hoangquan|qAzx&78|SELLER
+13|Le Hieu|33|0966666777|Quang Ninh|lehieu|aBcD*90|NONE
+14|Vuong Ngoc|21|0921213141|Hai Duong|vuongngoc|wErf$23|ADMIN
+15|Dang Tuan|28|0912345678|Lao Cai|dangtuan|qAzx.45|SELLER
+16|Nguyen Duc|30|0944444567|Phu Yen|nguyenduc|aBcD!67|NONE
+17|Phan Hien|25|0977777888|Binh Duong|phanhien|wErf#89|ADMIN
+18|Ngoc Han|27|0965656565|Vinh Long|ngocthanh|qAzx.12|SELLER
+19|Dinh Quang|24|0933333222|Hue|dinhquang|aBcD$34|NONE
+20|Vo Thuy|31|0921212121|Bac Lieu|vothuy|wErf^56|ADMIN
+21|Le Ha|28|0912121212|Kien Giang|leha|qAzx%67|SELLER
+22|Nguyen Anh|26|0945454545|Dong Nai|nguyenanh|aBcD@78|NONE
+23|Tran Binh|29|0967676767|Quang Tri|tranbinh|wErf^90|SELLER
+24|Vu Bao|23|0932323232|Binh Thuan|vubao|qAzx.23|ADMIN

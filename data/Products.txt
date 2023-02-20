@@ -1,0 +1,50 @@
+1|Apples|10|1.99|1
+2|Bananas|5|0.99|1
+4|Carrots|20|1.25|2
+5|Broccoli|12|2.99|2
+6|Potatoes|8|1.49|2
+7|Milk|25|3.49|3
+8|Cheese|15|4.99|3
+9|Yogurt|20|2.99|3
+10|Chicken|10|7.99|4
+11|Grapes|15|2.50|1
+12|Pineapples|5|3.99|1
+13|Peas|30|1.25|2
+14|Cauliflower|20|1.99|2
+15|Tomatoes|25|0.99|2
+16|Onions|40|0.75|2
+16|Onions|40|0.75|2
+17|Pork Chops|10|4.99|4
+18|Beef|5|6.99|4
+19|Pork|15|5.99|4
+20|Salmon|8|9.99|5
+21|Shrimp|12|12.99|5
+22|Crab|6|15.99|5
+23|Almond Milk|25|2.50|3
+24|Cream Cheese|10|3.99|3
+25|Butter|20|1.50|3
+26|Bread|15|2.99|6
+27|Bagels|10|1.50|6
+28|Croissants|8|2.99|6
+29|Cookies|20|0.99|7
+30|Candy|30|1.25|7
+31|Hoodie|50|39.99|8
+32|Hats|100|8.99|8
+33|Toothbrush|200|2.49|9
+34|Toothpaste|100|4.99|9
+35|Shampoo|50|8.99|9
+36|Conditioner|50|8.99|9
+37|Soap|150|1.99|9
+38|Headphones|20|29.99|10
+39|Computer Mouse|30|12.99|10
+40|Keyboard|20|19.99|10
+41|Batteries|100|0.99|10
+42|Mixed Nuts|75|6.99|11
+43|Potato Chips|100|3.49|11
+44|Popcorn|50|2.99|11
+45|Soda|75|1.99|12
+46|Tea|50|4.99|12
+47|Coffee|50|5.99|12
+48|Juice|50|3.99|12
+49|Water|100|0.99|12
+50|Electric Toothbrush|30|29.99|9
